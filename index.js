@@ -2,7 +2,6 @@
  * This is the main entrypoint to your Probot app
  * @param {import('probot').Application} app
  */
-require('dotenv').config()
 const { Octokit } = require("@octokit/rest");
 
 const KNOWN_COMMANDS = ['run-ci', 'update-requirements'];
