@@ -2,6 +2,8 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
+AiiDA bot app is currently not maintained and not used.
+
 ## Setup
 
 ```sh
